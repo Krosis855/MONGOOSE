@@ -1,0 +1,27 @@
+{
+  "name": "node-mongoose",
+  "version": "1.0.0",
+  "description": "Learning to mongoose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krosis855/MONGOOSE.git"
+  },
+  "keywords": [
+    "mongoose",
+    "learning"
+  ],
+  "author": "Jake T Spalding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krosis855/MONGOOSE/issues"
+  },
+  "homepage": "https://github.com/Krosis855/MONGOOSE#readme",
+  "dependencies": {
+    "mongoose": "^5.10.9"
+  }
+}
